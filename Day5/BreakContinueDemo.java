@@ -1,0 +1,18 @@
+public class BreakContinueDemo {
+    public static void main(String[] args) {
+        System.out.println("Break Example");
+        for (int i = 1; i <= 10; i++) {
+            if (i == 6) {
+                break;
+            }
+            System.out.println(i);
+        }
+        System.out.println("\nContinue Example");
+        for (int i = 1; i <= 10; i++) {
+            if (i == 5) {
+                continue;
+            }
+            System.out.println(i);
+        }
+    }
+}
