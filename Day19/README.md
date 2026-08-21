@@ -25,6 +25,7 @@ By the end of Day 19, the following concepts should be understood:
 
 ## 📂 Folder Structure
 
+```text
 Day19/
 ├── ArrayMethods.java
 ├── ArrayOperations.java
@@ -32,3 +33,4 @@ Day19/
 ├── ReverseAndSortCheck.java
 ├── ArrayUtility.java
 └── README.md
+```
