@@ -4,6 +4,7 @@ Day 19 of the #100DaysOfJavaDSA challenge combines two important concepts:
 
 - Arrays
 - Methods
+
   The goal is to learn how to take an array-based problem, break it into smaller tasks, and implement each task using reusable methods.
 
 ## 🎯 Day 19 Objectives
